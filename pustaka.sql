@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Waktu pembuatan: 06 Bulan Mei 2022 pada 07.26
+-- Waktu pembuatan: 11 Bulan Mei 2022 pada 09.07
 -- Versi server: 10.4.18-MariaDB
 -- Versi PHP: 8.0.3
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `pustaka_19200303`
+-- Database: `pustaka`
 --
 
 -- --------------------------------------------------------
